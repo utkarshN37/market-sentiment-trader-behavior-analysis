@@ -1,10 +1,12 @@
 # 📊 Market Sentiment vs Trader Behavior Analysis
 
-## 📌 Project Overview
+**An end-to-end data analytics project exploring how Bitcoin market sentiment influences trader profitability, behavior, and risk-taking on Hyperliquid using Python and exploratory data analysis.**
 
-This project analyzes the relationship between Bitcoin market sentiment (Fear & Greed Index) and trader behavior on Hyperliquid. By combining historical trading records with daily market sentiment, the analysis explores how trader profitability, win rate, trading activity, and position sizing vary across different market conditions.
+## 🎯 Project Objective
 
-The project demonstrates an end-to-end data analytics workflow, including data cleaning, feature engineering, exploratory data analysis (EDA), business insights, and actionable recommendations.
+The objective of this project is to investigate whether Bitcoin market sentiment (Fear & Greed Index) influences trader behavior and profitability.
+
+Using historical trading data, this project identifies behavioral patterns across different market conditions and converts analytical findings into actionable business recommendations.
 
 ---
 
@@ -26,6 +28,17 @@ The project demonstrates an end-to-end data analytics workflow, including data c
 - Jupyter Notebook
 
 ---
+
+## 🧠 Skills Demonstrated
+
+- Data Cleaning
+- Data Wrangling
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Business Analytics
+- Data Visualization
+- Python (Pandas, NumPy, Matplotlib)
+- Business Storytelling
 
 ## 📂 Dataset
 
@@ -57,11 +70,10 @@ The project uses two datasets:
 
 ## 📈 Key Insights
 
-- Trader profitability varied across different market sentiment conditions.
-- Large traders generated the highest average profit despite not having the highest win rate.
-- Small traders achieved the highest win rate but earned lower absolute profits because of smaller position sizes.
-- Market sentiment influenced trading behavior, including trade frequency, position sizing, and trading direction.
-
+- Trader profitability differed significantly across market sentiment conditions.
+- Large traders generated the highest average profit despite not achieving the highest win rate, indicating effective risk-reward management.
+- Small traders recorded the highest win rate but lower overall profitability due to smaller average position sizes.
+- Market sentiment influenced trade frequency, position sizing, and directional bias, suggesting traders adjusted behavior according to market psychology.
 ---
 
 ## 💼 Business Recommendations
@@ -71,6 +83,15 @@ The project uses two datasets:
 - Use market sentiment indicators as part of trading risk management.
 
 ---
+
+## 📊 Business Impact
+
+The findings from this analysis can help:
+
+- Trading platforms understand trader behavior during different market conditions.
+- Risk teams improve exposure management.
+- Traders optimize position sizing based on sentiment.
+- Analysts build sentiment-aware trading strategies.
 
 ## 📁 Repository Structure
 
@@ -96,6 +117,8 @@ market-sentiment-trader-behavior-analysis/
 
 ## 👤 Author
 
-**UTKARSH**
+**Utkarsh Nagare**
 
 Aspiring Data Analyst passionate about Python, SQL, Power BI, and business analytics.
+
+**Skills:** Python • SQL • Pandas • NumPy • Power BI • Data Visualization • Business Analytics
