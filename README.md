@@ -105,6 +105,9 @@ market-sentiment-trader-behavior-analysis/
 ```
 
 ---
+# Bonus: Predictive Modeling
+
+To complement the exploratory analysis, a Random Forest classifier was developed to predict whether a trade would result in a profit or loss using market sentiment, position size, trade direction, and trader type. The objective was to explore how machine learning can identify trading patterns beyond descriptive analytics.
 
 ## 🚀 How to Run
 
